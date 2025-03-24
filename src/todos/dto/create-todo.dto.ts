@@ -23,3 +23,5 @@ export class CreateTodoDto {
   @IsNumber()
   user_id: number;
 }
+
+// data transfer object meaning of dto
